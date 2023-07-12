@@ -1,7 +1,5 @@
 <script setup lang="ts">
-// import HelloWorld from './components/HelloWorld.vue'
-// import TheWelcome from './components/TheWelcome.vue'
-import Navbar from './components/Navbar.vue'
+  import Navbar from './components/Navbar.vue'
 </script>
 
 <template>
